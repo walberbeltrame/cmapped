@@ -1,2 +1,2 @@
 # Cmapped
-Flexible Learning Management System based on Conceptual Maps.
+Flexible Virtual Learning Environment based on Conceptual Maps.
