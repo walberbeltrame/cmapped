@@ -1,2 +1,2 @@
 # Cmapped
-Flexible Virtual Learning Environment based on Conceptual Maps.
+Flexible virtual learning environment based on conceptual maps.
